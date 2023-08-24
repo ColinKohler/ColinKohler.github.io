@@ -18,6 +18,10 @@ package can be found in either the [paper](https://arxiv.org/pdf/2205.14292.pdf)
 
 The pacakge is avaliable at [<i class="fab fa-fw fa-github-alt" aria-hidden="true"></i>ColinKohler/BulletArm.](https://github.com/ColinKohler/BulletArm)
 
+## UR5e RL
+Real world reinforcement learning environemnts designed to work with the UR5e robotic arm and a Robotiq 2F-85 Gripper. The development of this
+package wasa part of the work done in our [Symmetric Visual Force Policy Learning]() paper.  
+
 ## Torch Utils
 Collection of [PyTorch](https://pytorch.org/) modules/utils packaged for ease of use. Primarily used for rapid prototyping of new projects.
 Added to iteratively as I find new and interesting PyTorch tips and tricks.

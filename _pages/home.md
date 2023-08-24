@@ -16,10 +16,10 @@ feature_row:
               capability to assist humans in their native environments."
   - image_path: assets/images/splash_1.jpg
     alt: "Robots"
-    title: "Robots"
-    excerpt: "In the lab we primarily work with [Universal Robot's UR5](https://www.universal-robots.com/products/ur5-robot/)
-              armed with a [Robotiq 2F-85 Gripper](https://robotiq.com/products/2f85-140-adaptive-robot-gripper). However, we
-              have also worked with NASA's Valkyrie, Clearpath's Husky, and others."
+    title: "Visual-Force Learning"
+    excerpt: "My research focuses on leverging both symmetry and visual-force information for robotic control. By exploiting the 
+              symmetry inherent in both the visual and force information we can efficently learn complex manipulation policies on
+              the robot hardware without the need to pretrain in simulation."
   - image_path: assets/images/isec_1.jpg
     alt: "Isec"
     title: "Boston, MA"

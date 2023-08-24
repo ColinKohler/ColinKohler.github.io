@@ -20,7 +20,7 @@ name                     : "Colin Kohler"
 description              : "test description"
 url                      : https://colinkohler.github.io 
 baseurl                  : ""
-repository               : "ColinKohler/ColingKohler.github.io"
+repository               : "ColinKohler/ColinKohler.github.io"
 teaser                   : #
 words_per_minute         : 200
 comments:
@@ -35,7 +35,7 @@ comments:
     colorscheme          : #
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "gh-pages" # "master", "gh-pages"
+  branch                 : "main" # "master", "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
   format                 : "yml"
@@ -73,8 +73,8 @@ social:
 # Site Author
 author:
   name                   : "Colin Kohler"
-  avatar                 : "/assets/images/avatar.jpg"
-  bio                    : "I am a stick."
+  avatar                 : "/assets/images/avatar.png"
+  bio                    : "PhD Candidate at Northeastern University"
   location               : "Boston, MA" 
   links:
     - label: "Email"
