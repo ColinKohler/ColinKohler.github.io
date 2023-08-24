@@ -19,8 +19,8 @@ title_separator          : "|"
 name                     : "Colin Kohler"
 description              : "test description"
 url                      : https://colinkohler.github.io 
-baseurl                  : "/webpage"
-repository               : "ColinKohler/webpage"
+baseurl                  : ""
+repository               : "ColinKohler/ColingKohler.github.io"
 teaser                   : #
 words_per_minute         : 200
 comments:
